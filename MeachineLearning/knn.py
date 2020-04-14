@@ -1,3 +1,8 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+# @File: logiticRegression.py
+# @Author: dengzj
+# @E-mail: 1104397829@qq.com
 import numpy as np
 def knn_classify(X,dataset,labels,k):
     #print(dataset.shape)
