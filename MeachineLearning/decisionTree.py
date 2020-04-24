@@ -4,6 +4,7 @@
 # @Author: dengzj
 # @E-mail: 1104397829@qq.com
 
+#ID3分类树
 import math
 #计算给定数据集的香农熵值
 def cal_shannon_ent(dataset):
