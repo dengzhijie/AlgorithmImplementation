@@ -4,7 +4,7 @@
 # @Author: dengzj
 # @E-mail: 1104397829@qq.com
 
-#仅模拟实现单个卷积层，单个全连接层的卷积神经网络
+#本次仅模拟实现单个卷积、激活、池化，全连接层的卷积神经网络
 import skimage
 import numpy as np
 import matplotlib.pyplot as plt
